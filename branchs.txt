@@ -1,0 +1,3 @@
+Branchs(ramos) servem para desenvolver features isoladas.
+A branch master é a principal.
+É possível atualizar as modificações de uma branch para outra usando o comando merge.
