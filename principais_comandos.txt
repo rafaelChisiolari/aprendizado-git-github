@@ -1,0 +1,20 @@
+git init => inicia o git
+
+git status => mostra o status dos arquivos
+
+git add arquivo.txt => deixa o arquivo como monitorado e pronto para ser comitado
+git add . => executa em todos os arquivos
+
+git commit -m ' ' => salva a alteração do arquivo no git com uma descrição da alteração
+git commit --amend => adiciona o commit atual ao anterior podendo alterar sua mensagem, tornando um só commit
+
+git log => visualiza as alterações
+git log --pretty=oneline => vizualiza as alterações em uma linha cada uma
+git log --pretty=oneline -1 => mostra apenas a última alteração
+git log --stat => mostra o autor e a data/hora das alterações
+
+git diff => mostra a diferença entre arquivos alterados
+
+git reset HEAD arquivo.txt => tira o arquivo do staged
+
+git checkout -- arquivo.txt => desfaz a modificação
