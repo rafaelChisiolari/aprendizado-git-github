@@ -1,0 +1,3 @@
+Git é um sistema de controle de versões de arquivos, com ele 
+desenvolvemos projetos colaborativos com facilidade.
+Github é um serviço de hospedagem de projetos Git.
