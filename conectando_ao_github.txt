@@ -1,0 +1,2 @@
+git remote add origin (url) => este código estará no seu repositório criado no github
+git push origin master
